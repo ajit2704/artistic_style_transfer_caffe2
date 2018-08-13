@@ -16,7 +16,7 @@
         android:icon="@drawable/ic_launcher"
         android:theme="@style/MaterialTheme">
 
-        <activity android:name="com.example.aj.style_caffe.stylizeActivity"
+        <activity android:name="com.example.aj.style_caffe.StylizeActivity"
             android:screenOrientation="portrait"
             android:label="@string/activity_name_stylize">
             <intent-filter>
